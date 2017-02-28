@@ -1,0 +1,14 @@
+C:\Examples\FantasyFootballLeague\FantasyFootballLeague\bin\Debug\FantasyFootballLeague.dacpac
+C:\Examples\FantasyFootballLeague\FantasyFootballLeague\bin\Debug\FantasyFootballLeague.dll
+C:\Examples\FantasyFootballLeague\FantasyFootballLeague\bin\Debug\FantasyFootballLeague.pdb
+C:\Examples\FantasyFootballLeague\FantasyFootballLeague\obj\Debug\Model.xml
+C:\Examples\FantasyFootballLeague\FantasyFootballLeague\obj\Debug\refactor.xml
+C:\Examples\FantasyFootballLeague\FantasyFootballLeague\obj\Debug\postdeploy.sql
+C:\Examples\FantasyFootballLeague\FantasyFootballLeague\obj\Debug\predeploy.sql
+C:\Examples\FantasyFootballLeague\FantasyFootballLeague\obj\Debug\FantasyFootballLeague.dll
+C:\Examples\FantasyFootballLeague\FantasyFootballLeague\obj\Debug\FantasyFootballLeague.pdb
+C:\Users\kschlobohm\Desktop\Seed Your Database BLOG\FantasyFootballLeague\FantasyFootballLeague\bin\Debug\FantasyFootballLeague.dacpac
+C:\Users\kschlobohm\Desktop\Seed Your Database BLOG\FantasyFootballLeague\FantasyFootballLeague\bin\Debug\FantasyFootballLeague.dll
+C:\Users\kschlobohm\Desktop\Seed Your Database BLOG\FantasyFootballLeague\FantasyFootballLeague\bin\Debug\FantasyFootballLeague.pdb
+C:\Users\kschlobohm\Desktop\Seed Your Database BLOG\FantasyFootballLeague\FantasyFootballLeague\obj\Debug\FantasyFootballLeague.dll
+C:\Users\kschlobohm\Desktop\Seed Your Database BLOG\FantasyFootballLeague\FantasyFootballLeague\obj\Debug\FantasyFootballLeague.pdb
